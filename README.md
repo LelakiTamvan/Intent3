@@ -3,7 +3,7 @@
 ScreenShot:
 <br><img src="https://github.com/LelakiTamvan/Intent3/blob/master/intent3%2C1.PNG"/>
 <br><img src="https://github.com/LelakiTamvan/Intent3/blob/master/intent3%2C2.PNG"/>
-<br><img src="https://github.com/LelakiTamvan/Intent2/blob/master/intent3%2C3.PNG"/>
+<br><img src="https://github.com/LelakiTamvan/Intent3/blob/master/intent3%2C3.PNG"/> 
 
 
 
